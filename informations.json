@@ -1,0 +1,110 @@
+{
+    "products": [
+      {
+        "nomProduit": "Chaussures de randonnée XB28",
+        "categorie": "SHOES",
+        "descProduit": "Des chaussures confortables, parfaites pour les longues randonnées sportives.",
+        "prix": "45,99 €"
+      },
+      {
+        "nomProduit": "Tentes UltraLight 5000",
+        "categorie": "TENT",
+        "descProduit": "Une tente ultralégère et résistante, idéale pour les aventures en montagne.",
+        "prix": "112,49 €"
+      },
+      {
+        "nomProduit": "Sac à dos TrekPro 70L",
+        "categorie": "BACKPACK",
+        "descProduit": "Un sac à dos spacieux et ergonomique, conçu pour les randonnées de plusieurs jours.",
+        "prix": "49,99 €"
+      },
+      {
+        "nomProduit": "Veste imperméable StormGuard",
+        "categorie": "JACKET",
+        "descProduit": "Une veste imperméable et respirante, offrant une protection optimale contre les intempéries.",
+        "prix": "75,99 €"
+      },
+      {
+        "nomProduit": "Lampe frontale NightBeam",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Une lampe frontale puissante avec différents modes d'éclairage pour la navigation nocturne.",
+        "prix": "14,99 €"
+      },
+      {
+        "nomProduit": "Crampons GlacierGrip",
+        "categorie": "SHOES",
+        "descProduit": "Des crampons robustes pour une traction maximale sur la glace et la neige.",
+        "prix": "56,49 €"
+      },
+      {
+        "nomProduit": "Sac de couchage ArcticDream",
+        "categorie": "BACKPACK",
+        "descProduit": "Un sac de couchage isolant et confortable, adapté aux conditions extrêmes de température.",
+        "prix": "69,56€"
+      },
+      {
+        "nomProduit": "Gants thermiques FrostShield",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Des gants chauds et résistants au vent, parfaits pour les conditions hivernales.",
+        "prix": "14,99 €"
+      },
+      {
+        "nomProduit": "GPS TrailMaster",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Un GPS fiable et précis pour la navigation en montagne.",
+        "prix": "99,75 €"
+      },
+      {
+        "nomProduit": "Tapis de sol AllWeather",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Un tapis de sol imperméable et résistant pour protéger votre équipement de l'humidité.",
+        "prix": "59,48 €"
+      },
+      {
+        "nomProduit": "Bâtons de randonnée FlexTrail",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Des bâtons de randonnée légers et ajustables pour un soutien supplémentaire sur les sentiers.",
+        "prix": "15,78 €"
+      },
+      {
+        "nomProduit": "Casque d'escalade SummitSafe",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Un casque d'escalade durable et sécuritaire, offrant une protection essentielle lors de l'escalade.",
+        "prix": "29,49 €"
+      },
+      {
+        "nomProduit": "Masque de ski SnowVision",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Un masque de ski élégant et performant, offrant une vision claire par tous les temps.",
+        "prix": "14,99 €"
+      },
+      {
+        "nomProduit": "Corde d'escalade ProClimb 80m",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Une corde d'escalade haut de gamme, conçue pour la résistance et la durabilité.",
+        "prix": "85,95 €"
+      },
+      {
+        "nomProduit": "Couteau multifonction AdventureTool",
+        "categorie": "ACCESSORIES",
+        "descProduit": "Un couteau polyvalent avec plusieurs outils intégrés, essentiel pour les situations d'urgence en montagne.",
+        "prix": "17,69 €"
+      }
+    ],
+
+    "news": [
+      {
+        "titreActualites": "Inoxtag se lance dans l'ascension de l'Everest",
+        "descActualites": "Kathmandu, Népal - Le célèbre vidéaste français Inoxtag a débuté son aventure ultime en entreprenant l'ascension du mont Everest, le plus haut sommet du monde. Accompagné d'une équipe de guides chevronnés, Inoxtag a quitté le camp de base, prêt à affronter les défis redoutables de l'Himalaya. Sa décision audacieuse de gravir le pic emblématique témoigne de son courage et de sa détermination à relever des défis extraordinaires. Suivez l'épopée d'Inoxtag alors qu'il défie les éléments et se rapproche du sommet mythique du mont Everest."
+      },
+      {
+        "titreActualites": "Une nouvelle espèce de chèvre découverte sur le mont K2",
+        "descActualites": "Skardu, Pakistan - Une expédition récente dans les régions élevées du mont K2 a abouti à une découverte étonnante : une nouvelle espèce de chèvre a été identifiée par les chercheurs. Ces chèvres inhabituelles, dotées de cornes imposantes, ont été observées évoluant avec agilité dans les terrains escarpés et inhospitaliers des pentes du mont K2. Cette découverte suscite l'excitation parmi les scientifiques et ouvre de nouvelles perspectives sur la biodiversité de la région montagneuse du Karakoram."
+      },
+      {
+        "titreActualites": "Avalanche à Zermatt : 3 skieurs décédés",
+        "descActualites": "Zermatt, Suisse - Une avalanche survenue hier après-midi à Zermatt a emporté la vie de trois skieurs. Les autorités locales ont déclaré que les conditions météorologiques instables des derniers jours ont probablement déclenché cette tragédie. Les équipes de secours ont été dépêchées sur place, mais malheureusement, les skieurs n'ont pas survécu. Une enquête est en cours pour déterminer les causes exactes de l'avalanche. Restez informé pour les dernières mises à jour."
+      }
+    ]
+  }
+  
