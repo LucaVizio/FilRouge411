@@ -1,94 +1,201 @@
 {
     "products": [
       {
-        "nomProduit": "Chaussures de randonnée XB28",
-        "categorie": "SHOES",
-        "descProduit": "Des chaussures confortables, parfaites pour les longues randonnées sportives.",
-        "prix": "45,99 €"
-      },
-      {
-        "nomProduit": "Tentes UltraLight 5000",
-        "categorie": "TENT",
-        "descProduit": "Une tente ultralégère et résistante, idéale pour les aventures en montagne.",
-        "prix": "112,49 €"
-      },
-      {
-        "nomProduit": "Sac à dos TrekPro 70L",
-        "categorie": "BACKPACK",
-        "descProduit": "Un sac à dos spacieux et ergonomique, conçu pour les randonnées de plusieurs jours.",
-        "prix": "49,99 €"
-      },
-      {
-        "nomProduit": "Veste imperméable StormGuard",
-        "categorie": "JACKET",
-        "descProduit": "Une veste imperméable et respirante, offrant une protection optimale contre les intempéries.",
-        "prix": "75,99 €"
-      },
-      {
         "nomProduit": "Lampe frontale NightBeam",
         "categorie": "ACCESSORIES",
         "descProduit": "Une lampe frontale puissante avec différents modes d'éclairage pour la navigation nocturne.",
-        "prix": "14,99 €"
+        "prix": 14.99,
+        "id": "accessories_lampe_torche_nightbeam",
+        "valeur": 3.51
       },
       {
-        "nomProduit": "Crampons GlacierGrip",
-        "categorie": "SHOES",
-        "descProduit": "Des crampons robustes pour une traction maximale sur la glace et la neige.",
-        "prix": "56,49 €"
-      },
-      {
-        "nomProduit": "Sac de couchage ArcticDream",
-        "categorie": "BACKPACK",
-        "descProduit": "Un sac de couchage isolant et confortable, adapté aux conditions extrêmes de température.",
-        "prix": "69,56€"
-      },
-      {
-        "nomProduit": "Gants thermiques FrostShield",
+        "nomProduit": "Gants thermiques Jacons FrostShield",
         "categorie": "ACCESSORIES",
         "descProduit": "Des gants chauds et résistants au vent, parfaits pour les conditions hivernales.",
-        "prix": "14,99 €"
+        "prix": 24.99,
+        "id": "accessories_gants_jacons_frostshield",
+        "valeur": 4.15
       },
       {
-        "nomProduit": "GPS TrailMaster",
+        "nomProduit": "GPS Garmin Etrex",
         "categorie": "ACCESSORIES",
         "descProduit": "Un GPS fiable et précis pour la navigation en montagne.",
-        "prix": "99,75 €"
+        "prix": 99.75,
+        "id": "accessories_gps_garmin_etrex",
+        "valeur": 3.28
       },
       {
-        "nomProduit": "Tapis de sol AllWeather",
+        "nomProduit": "Tapis de sol AllWeather Pro",
         "categorie": "ACCESSORIES",
         "descProduit": "Un tapis de sol imperméable et résistant pour protéger votre équipement de l'humidité.",
-        "prix": "59,48 €"
+        "prix": 59.48,
+        "id": "accessories_tapis_allweather_pro",
+        "valeur": 4.12
       },
       {
         "nomProduit": "Bâtons de randonnée FlexTrail",
         "categorie": "ACCESSORIES",
         "descProduit": "Des bâtons de randonnée légers et ajustables pour un soutien supplémentaire sur les sentiers.",
-        "prix": "15,78 €"
+        "prix": 15.78,
+        "id": "accessories_batons_randonnée",
+        "valeur": 2.57
       },
       {
-        "nomProduit": "Casque d'escalade SummitSafe",
+        "nomProduit": "Casque d'escalade Petzl SummitSafe",
         "categorie": "ACCESSORIES",
         "descProduit": "Un casque d'escalade durable et sécuritaire, offrant une protection essentielle lors de l'escalade.",
-        "prix": "29,49 €"
+        "prix": 29.49,
+        "id": "accessories_casque_escalade_petzl_summitsafe",
+        "valeur": 3.14
       },
       {
         "nomProduit": "Masque de ski SnowVision",
         "categorie": "ACCESSORIES",
         "descProduit": "Un masque de ski élégant et performant, offrant une vision claire par tous les temps.",
-        "prix": "14,99 €"
+        "prix": 14.99,
+        "id": "accessories_masque_snowvision",
+        "valeur": 2.95
       },
       {
-        "nomProduit": "Corde d'escalade ProClimb 80m",
+        "nomProduit": "Corde d'escalade Beal 80m",
         "categorie": "ACCESSORIES",
         "descProduit": "Une corde d'escalade haut de gamme, conçue pour la résistance et la durabilité.",
-        "prix": "85,95 €"
+        "prix": 175.95,
+        "id": "accessories_corde_beal_80m",
+        "valeur": 4.37
       },
       {
-        "nomProduit": "Couteau multifonction AdventureTool",
+        "nomProduit": "Couteau multifonction Coocheer",
         "categorie": "ACCESSORIES",
         "descProduit": "Un couteau polyvalent avec plusieurs outils intégrés, essentiel pour les situations d'urgence en montagne.",
-        "prix": "17,69 €"
+        "prix": 17.69,
+        "id": "accessories_couteau_coocheer",
+        "valeur": 3.60
+      },
+
+      {
+        "nomProduit": "Sac à dos Norrona Falketind 35L",
+        "categorie": "BACKPACK",
+        "descProduit": "Un sac à dos spacieux et ergonomique, conçu pour les randonnées de plusieurs jours.",
+        "prix": 49.99,
+        "id": "backpack_norrona_faltekind_35l",
+        "valeur": 3.86
+      },
+      {
+        "nomProduit": "Sac de couchage ArcticDream 2",
+        "categorie": "BACKPACK",
+        "descProduit": "Un sac de couchage isolant et confortable, adapté aux conditions extrêmes de température.",
+        "prix": 69.56,
+        "id": "backpack_articdream_2",
+        "valeur": 3.45
+      },
+      {
+        "nomProduit": "Sac à dos Osprey Dragonfly 34",
+        "categorie": "BACKPACK",
+        "descProduit": "Adapté à tous les terrains, escalade de rocher, cascade de glace ou alpinisme, le Dragonfly conserve un ratio efficacité/poids incomparable.",
+        "prix": 98.35,
+        "id": "backpack_osprey_dragonfly_34",
+        "valeur": 2.75
+      },
+
+      {
+        "nomProduit": "Veste StormGuard Highgate",
+        "categorie": "JACKET",
+        "descProduit": "Une veste imperméable et respirante, offrant une protection optimale contre les intempéries.",
+        "prix": 75.99,
+        "id": "jacket_stromguard_highgate",
+        "valeur": 3.09
+      },
+      {
+        "nomProduit": "Veste Bellagio M",
+        "categorie": "JACKET",
+        "descProduit": "La veste homme urbaine Bellagio est le compagnon idéal pour vos aventures en plein air. Légère, imperméable, respirante et coupe-vent, elle vous offre tout le confort et la protection dont vous avez besoin.",
+        "prix": 69.39,
+        "id": "jacket_bellagio_m",
+        "valeur": 3.68
+      },
+      {
+        "nomProduit": "Veste Quechua MH150",
+        "categorie": "JACKET",
+        "descProduit": "La veste de pluie de randonnée Quechua MH150 est parfaite les randonneurs débutants et occasionnels. En effet, elle assure une bonne protection contre la pluie malgré sa légèreté et son prix attractif.",
+        "prix": 50.00,
+        "id": "jacket_quechua_mh150",
+        "valeur": 3.50
+      },
+
+      {
+        "nomProduit": "Pantallon Norrona Falketind Flex1",
+        "categorie": "PANTS",
+        "descProduit": "Polyvalent, ce pantalon fabriqué en flex1, matière softshell souple, se dote de renforts à l'assise, aux genoux et en bas de jambes, pour une résistance et une protection face au vent et aux averses optimisées.",
+        "prix": 112.00,
+        "id": "pants_norrona_falketind_flex_1",
+        "valeur": 4.02
+      },
+      {
+        "nomProduit": "Pantallon Eider Rove Zipoff",
+        "categorie": "PANTS",
+        "descProduit": "Conçu dans un tissu léger, stretch et à séchage rapide, ce pantalon vous accompagnera dans toutes vos activités de plein air cet été. Commencez la journée avec le pantalon complet pour vous protéger du froid matinal, puis détachez les parties inférieures pour rester au frais une fois que les températures augmentent.",
+        "prix": 72.25,
+        "id": "pants_eider_rove_zipoff",
+        "valeur": 3.90
+      },
+      {
+        "nomProduit": "Pantallon Ortovox Vajolet",
+        "categorie": "PANTS",
+        "descProduit": "Ce bas léger et respirant, est également très robuste. Ainsi, vous bénéficiez d'une grande durabilité dans le temps et d'une excellente résistance à l'abrasion sur les parois rocheuses les plus raides.",
+        "prix": 117.00,
+        "id": "pants_ortovox_vajollet",
+        "valeur": 3.20
+      },
+
+      {
+        "nomProduit": "Chaussures Millet XB28",
+        "categorie": "SHOES",
+        "descProduit": "Des chaussures confortables, parfaites pour les longues randonnées sportives.",
+        "prix": 45.99,
+        "id": "shoes_millet_xb28",
+        "valeur": 4.15
+      },
+      {
+        "nomProduit": "Crampons Petzl Leverlock",
+        "categorie": "SHOES",
+        "descProduit": "Des crampons robustes pour une traction maximale sur la glace et la neige.",
+        "prix": 56.49,
+        "id": "shoes_petzl_leverlock",
+        "valeur": 3.98
+      },
+      {
+        "nomProduit": "Chaussures Scarpa Ribelle HD",
+        "categorie": "SHOES",
+        "descProduit": "La Ribelle HD se destine à une pratique polyvalente entre alpinisme, trekking technique et via ferrata. On la verrait bien aux pieds de guides de haute-montagne ou tout simplement de passionnés de montagne.",
+        "prix": 98.99,
+        "id": "shoes_scarpe_ribelle_hd",
+        "valeur": 4.25
+      },
+
+      {
+        "nomProduit": "Tente Salewa UltraLight",
+        "categorie": "TENT",
+        "descProduit": "Une tente ultralégère et résistante, idéale pour les aventures en montagne.",
+        "prix": 112.49,
+        "id": "tent_salewa_ultralight",
+        "valeur": 3.56
+      },
+      {
+        "nomProduit": "Tente Camp Minima 3 Evo",
+        "categorie": "TENT",
+        "descProduit": "Bien pensée, cette tente dispose de deux grandes entrées et deux belles absides pour circuler facilement et moins se gêner. Cela offre également plus de place pour ranger les sacs.",
+        "prix": 350.00,
+        "id": "tent_camp_minima_3_evo",
+        "valeur": 3.74
+      },
+      {
+        "nomProduit": "Tente Ferrino Nemesi 2 Pro",
+        "categorie": "TENT",
+        "descProduit": "La Nemesi 2 Pro est une tente facile à monter et solide grâce à son armature en aluminium trempé. Cette même armature la rend légère.",
+        "prix": 285.00,
+        "id": "tent_ferrino_nemesi_2_pro",
+        "valeur": 3.20
       }
     ],
 
